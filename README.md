@@ -1,4 +1,4 @@
-### This used to be a place where I stored my code for things but now it's more of a personal knowledge base with I.T. and coding.
+### A place to store things for I.T. and coding.
 
 <!--
 **robutseverywhere/robutseverywhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
